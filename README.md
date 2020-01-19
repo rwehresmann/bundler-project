@@ -1,0 +1,1 @@
+This repository is just a test to explore Webpack and what create-react-app does behind the hood.
